@@ -10,12 +10,12 @@ In reviewing the temperature data provided by W. Avy, leveraging 3000+ data poin
   - Of 1700 data points, the min Temp in June is 64 degrees. Of 1517 data points, the min Temp in December is 56 degrees.
   - Of 1700 data points, the max Temp in June is 85 degrees. Of 1517 data points, the min Temp in December is 83 degrees.  
   
-  ![Audit Findings](https://github.com/taxcollecter/Election_Analysis/blob/6595bb630f550a02d1c3399a880a7625d0fc3b67/Resources/Election_output.png)
+  ![June Findings](https://github.com/taxcollecter/surfs_up/blob/bd210f73b5d40902d31a5ba1fb6c1c2b38398883/Resources/June_Temps.png)
 
-  ![Audit Findings](https://github.com/taxcollecter/Election_Analysis/blob/6595bb630f550a02d1c3399a880a7625d0fc3b67/Resources/Election_output.png)
+  ![December Findings](https://github.com/taxcollecter/surfs_up/blob/bd210f73b5d40902d31a5ba1fb6c1c2b38398883/Resources/December_Temps.png)
 
 ## Weather Analysis Summary
-While this script can be used to successfully audit the turnout of our local elections, we also would like to propose enhancing the program to identify WHERE each candidate's support comes from by County. Doing so will highlight each candidates performance from a geographical pespective and underscore our auditing activities. From an intergrity perspective we would also propose adding additional years of data to the supporting dataset to track historical turnout over time. Doing so will expose outliers in turnout and identify any potential issues with voting integrity.  
+While the minimum temperature slightly varies between the months of June and December, our findings show that overall the weather is consistent enough to support a surf and ice cream shop during BOTH peak tourist times of the year (June and December). We look forward to serving the best experience to those traveling during summer AND winter. Aloha!  
   
   ## Challenge Overview
  No issues with this module. 
